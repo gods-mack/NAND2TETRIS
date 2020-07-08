@@ -13,6 +13,27 @@
 
 // Put your code here.
 
+/*
+* Logic:
+
+* i=Screen
+* i = screen
+* while(1) {
+* 	if(kbd) {
+* 		RAM[i] = -1; // full black
+* 		if(i < kbd){
+* 			i++;
+* 		}
+* 	}
+* 	else {
+* 		RAM[i] = 0; // full white
+* 		if(i > Screen) {
+* 			i--;
+* 		}
+* 	}
+* }
+*
+*/
 
 
 
