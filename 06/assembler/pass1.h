@@ -6,6 +6,16 @@
 using namespace std;
 
 //void hello();
-void label_parser(ifstream&);
+
+
+string decimalToBinary(int );	
+int string2int(string );
+
+string make16bit(string);
+string replaceSpace(string);
+string removeComment(string);
+string final_ext(string);
+
+map<string,string> label_parser(ifstream&);
 
 #endif

@@ -1,11 +1,11 @@
 
-output: test.o pass1.o test.o
-	g++ test.o pass1.o -o output
+output: assembler.o pass1.o 
+	g++ assembler.o pass1.o -o output
 
 
 
-test.o: test.cpp code.h symbolTable.h
-	g++ -c test.cpp
+assembler.o: assembler.cpp code.h 
+	g++ -c assembler.cpp
 
 pass1.o: pass1.cpp pass1.h
 	g++ -c pass1.cpp
