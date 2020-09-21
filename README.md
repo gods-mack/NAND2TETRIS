@@ -20,11 +20,17 @@ Hardware Layer
 Software Layer
 
     - Assembler 
+    
     - Virtual Machine I, convert static arithmatic and memory access instruction in VM language to assembly language.
+    
     - Virtual Machine II, conver flow control and function calls in VM language to assembly language.
+    
     - Jack language syntax and symantics
+    
     - Compiler I, to break the source file into tokens and produce an XML with code constructs.
+    
     - Compiler II, from the tokens write the vm code for the source file
+    
     - In the last 3 changes, we took for granted the OS, in chapter 12 we build the os using jack language. OS, consists of array, string, sys, 
       output, memory handlers (to be implemented)
 
