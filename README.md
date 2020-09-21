@@ -10,28 +10,28 @@ Hardware Layer
     
   -  [X]  To build Sequential Gates, Counter, Register, RAM, ROM The implementation of D-Flip Flop is given
     
-  -  Designing Assembly Language for the Hack Platform
+  -  [X]  Designing Assembly Language for the Hack Platform
     
-  -  Build the Hack computer platform, which will be the top most layer of Hardware Architecture
+  -  [X]  Build the Hack computer platform, which will be the top most layer of Hardware Architecture
     
-  -  To convert Assembly Language to hardware understandable sequence of bits (1 or 0)
+  -  [X]  To convert Assembly Language to hardware understandable sequence of bits (1 or 0)
   
 
 Software Layer
 
-  -  Assembler 
+  -  [X]  Assembler 
   
-  -  Virtual Machine I, convert static arithmatic and memory access instruction in VM language to assembly language.
+  -  [X]  Virtual Machine I, convert static arithmatic and memory access instruction in VM language to assembly language.
   
-  - [] Virtual Machine II, conver flow control and function calls in VM language to assembly language. 
+  -  [ ] Virtual Machine II, conver flow control and function calls in VM language to assembly language. 
   
-  -  Jack language syntax and symantics
+  -  [ ] Jack language syntax and symantics
   
-  -  Compiler I, to break the source file into tokens and produce an XML with code constructs.
+  -  [ ] Compiler I, to break the source file into tokens and produce an XML with code constructs.
   
-  -  Compiler II, from the tokens write the vm code for the source file
+  -  [ ] Compiler II, from the tokens write the vm code for the source file
   
-  -  OS
+  -  [ ]  OS
   
 
 
