@@ -4,11 +4,11 @@
 
 Hardware Layer 
 
-  -  To build Elementary Gate using Hardware Descriptor Language (specific to Nand2Tetris) The implementation of fundamental Nand Gate is provided
+  -  [X] To build Elementary Gate using Hardware Descriptor Language (specific to Nand2Tetris) The implementation of fundamental Nand Gate is provided
     
-  -  To build Computational Gate or (Combinational Gates) Full-adder, half-adder, Incrementer and Arithmatic Logic Unit (16-bit ALU)
+  -  [X]  To build Computational Gate or (Combinational Gates) Full-adder, half-adder, Incrementer and Arithmatic Logic Unit (16-bit ALU)
     
-  -  To build Sequential Gates, Counter, Register, RAM, ROM The implementation of D-Flip Flop is given
+  -  [X]  To build Sequential Gates, Counter, Register, RAM, ROM The implementation of D-Flip Flop is given
     
   -  Designing Assembly Language for the Hack Platform
     
@@ -23,7 +23,7 @@ Software Layer
   
   -  Virtual Machine I, convert static arithmatic and memory access instruction in VM language to assembly language.
   
-  -  Virtual Machine II, conver flow control and function calls in VM language to assembly language. 
+  - [] Virtual Machine II, conver flow control and function calls in VM language to assembly language. 
   
   -  Jack language syntax and symantics
   
