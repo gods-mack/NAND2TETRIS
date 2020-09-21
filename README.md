@@ -2,7 +2,7 @@
 ### Build a Modern Computer from First Principles: From Nand to Tetris (Using NAND logic gate)
 
 
-Hardware Layer 
+### Hardware Layer 
 
   -  [X] To build Elementary Gate using Hardware Descriptor Language (specific to Nand2Tetris) The implementation of fundamental Nand Gate is provided
     
@@ -17,7 +17,7 @@ Hardware Layer
   -  [X]  To convert Assembly Language to hardware understandable sequence of bits (1 or 0)
   
 
-Software Layer
+### Software Layer
 
   -  [X]  Assembler 
   
